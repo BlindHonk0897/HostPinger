@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student.admin\\source\\repos\\HostPinger\\HostPinger\\HostPinger.csproj",
+      "projectUniqueName": "C:\\Users\\student.admin\\Desktop\\HostPinger\\HostPinger\\HostPinger.csproj",
       "projectName": "HostPinger",
-      "projectPath": "C:\\Users\\student.admin\\source\\repos\\HostPinger\\HostPinger\\HostPinger.csproj",
+      "projectPath": "C:\\Users\\student.admin\\Desktop\\HostPinger\\HostPinger\\HostPinger.csproj",
       "packagesPath": "C:\\Users\\student.admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student.admin\\source\\repos\\HostPinger\\HostPinger\\obj\\",
+      "outputPath": "C:\\Users\\student.admin\\Desktop\\HostPinger\\HostPinger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

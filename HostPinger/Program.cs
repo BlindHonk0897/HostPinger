@@ -18,8 +18,8 @@ namespace HostPinger
 
     class Pinger
     {
-        //string Host_URL = "43.226.6.156";// you may change this to new server address luke.alcoseba@passerellesnumeriques.org
-        string Host_URL = "4565677";
+        //string Host_URL = "43.226.6.156";// you may change this to new server address 
+        string Host_URL = "43.226.6.156";
         string action_choice = "P";
         public void Run()
         {
