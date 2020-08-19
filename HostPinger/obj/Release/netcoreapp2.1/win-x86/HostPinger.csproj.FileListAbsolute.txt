@@ -1,0 +1,16 @@
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.exe
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.deps.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.runtimeconfig.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.runtimeconfig.dev.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\HostPinger.pdb
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Release\netcoreapp2.1\win-x86\Newtonsoft.Json.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.csprojAssemblyReference.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.csproj.CoreCompileInputs.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.AssemblyInfoInputs.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.AssemblyInfo.cs
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.csproj.CopyComplete
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Release\netcoreapp2.1\win-x86\HostPinger.pdb

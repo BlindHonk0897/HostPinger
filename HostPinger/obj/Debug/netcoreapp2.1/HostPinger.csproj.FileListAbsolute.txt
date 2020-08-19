@@ -1,0 +1,12 @@
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Debug\netcoreapp2.1\HostPinger.deps.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Debug\netcoreapp2.1\HostPinger.runtimeconfig.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Debug\netcoreapp2.1\HostPinger.runtimeconfig.dev.json
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Debug\netcoreapp2.1\HostPinger.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\bin\Debug\netcoreapp2.1\HostPinger.pdb
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.csprojAssemblyReference.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.csproj.CoreCompileInputs.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.AssemblyInfoInputs.cache
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.AssemblyInfo.cs
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.dll
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.pdb
+C:\Users\student.admin\source\repos\HostPinger\HostPinger\obj\Debug\netcoreapp2.1\HostPinger.csproj.CopyComplete
